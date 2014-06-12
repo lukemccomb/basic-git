@@ -1,3 +1,15 @@
+commit aae53b5ebdb7c784f1472ca479d103b7d8ed8741
+Author: Luke Bartel <bartelluke@gmail.com>
+Date:   Thu Jun 12 14:43:23 2014 -0600
+
+    added oh no message
+
+commit e4279ac89c7d317ff87e56c124b93003d3d1daa3
+Author: Luke McComb <lucasmccomb@gmail.com>
+Date:   Thu Jun 12 14:17:09 2014 -0600
+
+    git log added
+
 commit bf1b1b6c0efb2b82cb4e03b97f05cb63e34acb00
 Author: Luke McComb <lucasmccomb@gmail.com>
 Date:   Thu Jun 12 14:07:29 2014 -0600
